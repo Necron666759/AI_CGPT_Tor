@@ -3,9 +3,6 @@ A set of programs for quick access, in one click, to gpt chat, via the Tor netwo
 
 Minimum system requirements:
 Windows 10x86
-
-
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Instructions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The program is launched completely automatically from the shortcut on the desktop, "ChatGPT" or from the folder along the path "C:\ChatGPT\Obfs4AI.exe".
