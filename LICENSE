@@ -1,24 +1,28 @@
-This is free and unencumbered software released into the public domain.
+*******************************************************************************User Agreement*********************************************************************************
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+**1. General Provisions**
+This user agreement (hereinafter referred to as the "Agreement") governs the terms of use of the software (hereinafter referred to as the "Program") developed for the 
+purposes of scientific research and providing network access. By installing, using or distributing the Program, you agree to the terms of this Agreement.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+**2. Purpose and Limitations**
+The Program is intended solely for studying communication technologies, information security and network connection analysis. The developers do not support or encourage
+any use of the Program to circumvent censorship, blocking or other restrictions established by the laws of the countries in which you live.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+**3. Legality of Use**
+By using the Program, you agree to comply with the current legislation of your country. You are fully responsible for all actions performed using the Program. The developers
+are not responsible for any possible violation of the law by users.
 
-For more information, please refer to <https://unlicense.org>
+**4. Disclaimer**
+The developers provide the Program "as is" without any warranties, express or implied. The owner of the program is not liable for any damage, direct or indirect, arising from
+the use or inability to use the Program.
+
+**5. Privacy and personal data**
+The developer is not responsible for the safety of the user's personal data. The program is based on the technology of the open source project Tor, and also uses the principles
+of anonymity and decentralized connection. Using this software suite, provided on an "as is" basis, for accessing the Internet and in the context of interaction with ChatGPT,
+the user understands the possible risks and assumes full responsibility for the confidentiality of their data.
+
+**6. Final provisions**
+The developers reserve the right to make changes to this Agreement without prior notice. Continued use of the Program after changes are made means acceptance of the new terms.
+If you do not agree with the terms of this Agreement, you must immediately stop using the Program and delete it from all your devices.
+
+*******************************************************************************User Agreement**********************************************************************************
