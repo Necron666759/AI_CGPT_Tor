@@ -1,3 +1,5 @@
+![Screenshots](https://github.com/user-attachments/assets/c525ab06-2c1f-4008-bb49-7ca3dba3d403)
+![Screenshots](https://github.com/user-attachments/assets/e1ee4d14-3ab0-4628-ab34-939a63ccb829)
 # AI_CGPT_Tor
 A set of programs for quick access, in one click, to gpt chat, via the Tor network.
 
