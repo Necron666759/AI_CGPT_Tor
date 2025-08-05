@@ -1,6 +1,7 @@
 # Screenshots
 <img width="1901" height="879" alt="изображение" src="https://github.com/user-attachments/assets/70d7e7fc-5480-41c4-94ff-547d0dde824c" />
 <img width="1900" height="881" alt="изображение" src="https://github.com/user-attachments/assets/23e05e8b-6377-496b-af0b-527f2cc3cc55" />
+
 # AI_CGPT_Tor
 A set of programs for quick access, in one click, to gpt chat, via the Tor network.
 
@@ -8,6 +9,7 @@ Minimum system requirements:
 Windows 10x86
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Instructions~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================================================================================================================================================================
 
 The program runs completely automatically from the desktop shortcut "ChatGPT" or from the folder at the path "C:\ChatGPT\Obfs4AI.exe".
 
