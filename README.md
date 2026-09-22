@@ -47,7 +47,7 @@ click the continue button in the error window.
 ####################################################################################NOTE###################################################################################
 
 Donate to the project:
-USDT(TRC20): TWmpTMTDtwShQ3D7ZVb2ofRpgodiMfyF9o
+USDT(TRC20): TWEmMHfc5DbQuDru8oaXNoXxTNkqYJbsYv
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Developed by Celsius - 2025 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
